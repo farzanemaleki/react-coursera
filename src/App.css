@@ -31,3 +31,16 @@ address{
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.media-image{
+    display: inline-flex; 
+    justify-content: center;
+    margin-top: 0;
+    padding-top: 0;
+    top: -40px;
+    position: relative;
+}
+
+.inline-block{
+    display: inline-block;
+}
