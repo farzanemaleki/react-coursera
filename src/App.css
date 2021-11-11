@@ -44,3 +44,11 @@ address{
 .inline-block{
     display: inline-block;
 }
+
+.row{
+    padding: 5px;
+}
+
+.ml-auto{
+    margin-left: auto;
+}
